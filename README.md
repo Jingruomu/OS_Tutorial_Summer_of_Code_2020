@@ -9,4 +9,4 @@
 
 ### 事件2：浏览文档
 
-阅读和练习 《 Rust by Example 》, 梳理Rust语法
+阅读和练习 《 Rust by Example 》, 梳理Rust语法，阅读《 Rust 编程之道 》
