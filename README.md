@@ -26,7 +26,7 @@
 
 阅读和练习 《 Rust by Example 》, 梳理Rust语法，阅读《 Rust 编程之道 》
 
-### 事件1：做小练习
+### 事件2：做小练习
 
 do Small exercises 
 
