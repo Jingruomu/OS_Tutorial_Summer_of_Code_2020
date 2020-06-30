@@ -30,4 +30,16 @@
 
 do Small exercises 
 
+## Day 3(2020/6/30)
+
+
+### 事件1：浏览文档
+
+继续阅读和练习 《 Rust by Example 》, 梳理Rust语法，阅读《 Rust 编程之道 》
+
+### 事件2：看一看python版的Learn Python 3 The Hard Way
+
+准备明天进行Rust版的练习
+
+
 
