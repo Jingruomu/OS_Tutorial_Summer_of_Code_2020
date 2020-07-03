@@ -59,5 +59,12 @@ do Small exercises
 
 进行Rust版的练习
 
+## Day 6(2020/7/3)
+
+
+### 事件1：做 Small exercises
+
+因为之前只把small exercises的quiz写了，所以今天把它的其他题补上，今天应该能写差不多了
+
 
 
