@@ -64,7 +64,7 @@ do Small exercises
 
 ### 事件1：做 Small exercises
 
-因为之前只把small exercises的quiz写了，所以今天把它的其他题补上，今天应该能写差不多了
+因为之前只把small exercises的quiz写了，所以今天把它的其他题补上，今天应该能写差不多了，本来想着这样，结果只做了一半左右
 
 
 
