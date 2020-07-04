@@ -66,5 +66,13 @@ do Small exercises
 
 因为之前只把small exercises的quiz写了，所以今天把它的其他题补上，今天应该能写差不多了，本来想着这样，结果只做了一半左右
 
+## Day 7(2020/7/4)
+
+
+### 事件1：做 Small exercises
+
+今天把small exercise的题写完了，中间有的部分花了点时间，明天总结一下遇到花了时间的部分改天再看看，然后明天再写写Python版的练习
+
+
 
 
