@@ -99,4 +99,20 @@ do Small exercises
 ## Day 15(2020/7/15)
 今天在配虚拟机的环境和下载组件，还没有开始做
 
+## Day 16(2020/7/16)
+本来是准备用clion在windows上搞，结果qemu一直搞不好，最后还是转战虚拟机，搞了一晚上没搞好
+
+## Day 17(2020/7/17)
+lab0总算跑起来了，之前在跑的过程中一直报
+```
+error[E0463]: can't find crate for `core`
+  |
+  = note: the `riscv64imac-unknown-none-elf` target may not be installed`
+```
+的错，网上查了查说是因为`core`库只支持原生的目标三元组,但用的是自定义的目标三元组，所以需要重新编译整个`core`库  
+最后把build改成xbuild就可以了
+
+  
+
+
 
